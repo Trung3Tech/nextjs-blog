@@ -1,0 +1,4 @@
+1. npx create-next-app NextjsBlog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+2. npm install gray-matter
+3. npm install remark remark-html
+4. npm install date-fns
